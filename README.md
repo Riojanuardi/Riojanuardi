@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Riojanuardi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Riojanuardi/Riojanuardi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>saya Rio januardi Putra</h1>
+<p>saya bersekolah di SMKN 3 Pariaman 
+ Jurusan saya Rekayasa perangkat lunak (RPL) 
+<h2>saya Ingin menjadi programer</h2>
